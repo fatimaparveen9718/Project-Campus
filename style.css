@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.poster {
+    background-image: url("picnic.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 350px;
+    height: 620px;
+    margin:  auto;
+    border: none;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: #3327a1;
+    font-size: 50px;
+     line-height: 1.1;
+     margin:  20px 0;
+}
+
+h2 {
+    color:#f05b27;
+      font-size: 25px;
+}
+
+h3 {
+    color: #e64c40;
+    font-size: 18px;
+}
+
+ul {
+    text-align: left;
+    display: inline-block;
+}
+
+.date {
+    
+    background:#f71212;
+    color: white;
+    padding: 8px;
+    display: inline-block;
+}
+.footer{
+    text-align: center;
+}
+ /* h1{ 
+    margin-top: 30;
+}
+h1~p,
+h1~ul{
+    position: relative;
+    top: 50px;
+}
+.date-time{
+    position: relative;
+    top: 150px;   
+}
+.email{
+    position: relative;
+    top: 80px;
+} */
